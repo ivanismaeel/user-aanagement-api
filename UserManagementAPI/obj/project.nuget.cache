@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "GeckstPi6VE=",
+  "success": true,
+  "projectFilePath": "/Users/ivanismaeel/Desktop/div/user-management-api/UserManagementAPI/UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanismaeel/.nuget/packages/microsoft.aspnetcore.openapi/8.0.11/microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/microsoft.identitymodel.abstractions/8.3.0/microsoft.identitymodel.abstractions.8.3.0.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.3.0/microsoft.identitymodel.jsonwebtokens.8.3.0.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/microsoft.identitymodel.logging/8.3.0/microsoft.identitymodel.logging.8.3.0.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/microsoft.identitymodel.tokens/8.3.0/microsoft.identitymodel.tokens.8.3.0.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/swashbuckle.aspnetcore/6.1.4/swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.4/swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.4/swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.4/swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "/Users/ivanismaeel/.nuget/packages/system.identitymodel.tokens.jwt/8.3.0/system.identitymodel.tokens.jwt.8.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
